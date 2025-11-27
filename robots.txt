@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://fambetcasino-online.com/
+Sitemap: https://fambetcasino-online.com/sitemap.xml

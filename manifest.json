@@ -1,0 +1,19 @@
+{
+  "name": "Fambet",
+  "short_name": "Fambet",
+  "theme_color": "",
+  "background_color": "#081A26",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764247646-favicon-1.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

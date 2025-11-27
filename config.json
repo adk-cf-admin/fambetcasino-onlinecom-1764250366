@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#081A26",
+            "lang-select-color": "#222829",
+            "bg-light": "#081A26",
+            "welcome-bonus-bg": "#081A26",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0c2131",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#081A26",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#A11243",
+            "yellow": "#A11243",
+            "yellow-button": "#216CA4",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#13344B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#13344B",
+            "faq-label": "#13344B",
+            "bg-footer": "#081A26",
+            "copyright": "#e7e7d5",
+            "starColor": "#A11243",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Fambet",
+            "title": "Fambet Casino | Online Games, Bonuses & Fast Withdrawals",
+            "description": "Fambet is a modern online casino offering thousands of games, generous bonuses, and secure payouts. Enjoy slots, live casino, and tournaments with guaranteed fairness and convenient payment methods.\n",
+            "canonical": "fambetcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/757",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "fambetcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/758",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/759"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/760",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Fambet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Fambet Casino \u2014 excitement, bonuses, and security",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/761",
+            "imageSizeModifier": 7,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/762",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and live games",
+                "Welcome bonuses up to 350% plus free spins",
+                "Crypto support and fast withdrawals",
+                "Licensed platform with SSL data protection",
+                "VIP program with exclusive benefits",
+                "Tournaments and cashback for active players",
+                "Modern design and user-friendly interface"
+            ],
+            "advantagesAfterText": "Fambet delivers game variety, generous bonuses, and secure payments. The platform focuses on comfort and reliability, ensuring a safe and enjoyable experience.\n",
+            "knowMore": "Know more",
+            "appTitle": "Fambet App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/763",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Fambet App",
+            "mobileGooglePlayImageTitle": "Fambet App",
+            "mobileIosImageTitle": "Fambet App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Fambet",
+                "description1": "",
+                "items": [
+                    "Bonus up to 350% on deposit",
+                    "Maximum win up to \u20ac500,000",
+                    "250 free spins for newcomers"
+                ],
+                "description2": "Fambet is a modern online gaming platform. The casino offers a wide range of slots, table games, and live casino options. Users enjoy a sleek design and intuitive interface. The platform ensures secure transactions and data protection. Various bonuses and promotions are available for new and regular players. A loyalty program provides extra benefits. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/764",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The casino supports popular payment methods, including e-wallets and cryptocurrencies. Players can join tournaments and special events. Customer support is available 24\/7 to assist with any inquiries. Fambet focuses on comfort and reliability for every user."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Fambet \u2014 the world of gaming and endless opportunities",
+                "description": "<p>\nFambet is a modern online casino designed for players who value quality, security, and variety. The platform delivers a unique gaming experience, combining classic slots, table games, and live casino with real dealers. Its sleek design and intuitive navigation make gameplay smooth and enjoyable.\n\n<\/p>\n<br>\n<p>\nOne of Fambet\u2019s main strengths is reliability and data protection. The casino operates under international standards, using advanced encryption technologies and player verification. This ensures secure transactions and confidentiality, which is essential for those playing with real money.\n\n<\/p>\n<br>\n<p>\nThe Fambet game library impresses with its diversity. Thousands of slots from leading providers are available, along with popular table games and live casino options. The platform regularly updates its content, adding new releases and exclusive offers so every player can find something to enjoy.\n\n<\/p>\n<br>\n<p>\nFor bonus lovers, Fambet offers generous promotions and a loyalty program. New users receive welcome offers, while regular players benefit from cashback, tournaments, and VIP privileges. This makes gaming not only exciting but also rewarding.\n\n<\/p>\n<br>\n<p>\nFambet focuses on comfort and convenience. The casino supports various payment methods, including bank cards, e-wallets, and cryptocurrencies. A 24\/7 support team is always ready to assist, and the user-friendly interface ensures a hassle-free gaming experience.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Fambet\n\n<\/h3>\n\n<p>\nFambet offers players a wide range of payment options to make deposits and withdrawals as convenient as possible. The platform supports traditional bank cards, including Visa and MasterCard, as well as popular e-wallets that ensure fast and secure transactions. For those who prefer modern solutions, cryptocurrency payments are available, allowing for anonymous and hassle-free operations.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to transaction speed. E-wallets and cryptocurrencies provide almost instant deposits, while bank transfers are processed within standard timeframes. All transactions are protected by advanced encryption technologies, guaranteeing the safety of funds and user data.\n\n<\/p>\n<br>\n<p>\nWhen it comes to currencies, Fambet caters to an international audience by supporting multiple popular currencies. Players can use euros, US dollars, British pounds, and several others depending on their region. This makes the platform convenient for users worldwide and helps avoid unnecessary conversion fees.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for visiting Fambet Casino: conditions and prohibitions\n<\/h3>\n\n<p>\nVisiting Fambet online casino is governed by clear rules that ensure safety and comfort for all users. Every player must register and verify their identity to access real-money games. Providing accurate information during registration is mandatory. The casino strictly prohibits creating multiple accounts by the same user. Using someone else\u2019s payment details or engaging in fraudulent activities is not allowed. Players must comply with age restrictions, as access is granted only to adults. All transactions should be processed through official payment methods supported by the platform. Violating these rules may result in account suspension and forfeiture of winnings. Fambet promotes responsible gaming and recommends setting deposit limits. Customer support is always available to assist with any questions or issues. Following these rules guarantees fair and secure gameplay for all participants.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions for Access\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration with accurate personal details\n\n<\/li>\n            <li>\u2022 \nAge and identity verification\n\n<\/li>\n            <li>\u2022 \nUse of official payment methods\n\n\n<\/li>\n  \n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibited\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts\n\n<\/li>\n            <li>\u2022 \nFraudulent activities or rule violations\n<\/li>\n       <li>\u2022 \nUsing third-party payment details\n\n<\/li>\n\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at Fambet\n\n<\/h3>\n\n<p>\nFambet operates under an international license, confirming its legality and compliance with industry standards for online gaming. The license is issued by reputable regulators who monitor fair play and user protection, ensuring transparency and reliability across the platform.\n\n<\/p>\n<br>\n<p>\nTo safeguard data, Fambet employs advanced encryption technologies. All transactions are processed through secure channels using SSL protocols, eliminating the risk of data interception by third parties. Additionally, the platform implements multi-layered security measures, including identity verification (KYC), to prevent fraud and unauthorized access.\n\n<\/p>\n<br>\n<p>\nFambet\u2019s privacy policy strictly governs the handling of personal data. User information is stored in encrypted form and is never shared with third parties without consent. The casino adheres to international GDPR standards, guaranteeing maximum protection of personal information and full transparency in all processes.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFambet Customer Support: Fast and Reliable\n\n<\/h3>\n\n<p>\nFambet places great emphasis on customer service quality, offering several convenient communication channels. Users can contact support via live chat, email, or phone. The live chat is available directly on the website and provides the fastest response, which is ideal for urgent inquiries. Email is suitable for more detailed requests, while the phone line ensures quick problem resolution.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel, but on average, chat replies within minutes, and email within a few hours. The service quality is rated highly: agents are polite, knowledgeable, and ready to assist in any situation. Support is available 24\/7, making gaming comfortable regardless of time zone.\n\n<\/p>\n<br>\n<p>\nAnother advantage is multilingual support. Fambet serves customers in several languages, including English, Russian, and others, so every player can feel confident and comfortable. This is especially important for an international audience that values accessibility and clear communication.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Contact Channels\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat on the website\n\n<\/li>\n            <li>\u2022 \nEmail communication\n\n<\/li>\n            <li>\u2022 \nPhone support line\n\n\n<\/li>\n\n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Features\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response in chat\n\n<\/li>\n            <li>\u2022 \n24\/7 availability\n\n<\/li>\n       <li>\u2022 \nMultilingual assistance\n\n\n<\/li>\n    \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Fambet",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFambet Loyalty Program: Rewards and Exclusive Benefits\n\n<\/h3>\n\n<p>\nThe Fambet loyalty program is designed to reward active players and make gaming more profitable. It is available to all registered users who regularly place bets and deposit funds. The more you play, the higher your level and the greater the benefits you receive. The system is based on earning points for bets on slots, table games, and live casino. Points can be exchanged for bonuses, free spins, and other perks. The program includes several tiers, starting from the basic level and reaching VIP status, which unlocks exclusive offers. Each tier provides additional bonuses, higher withdrawal limits, and personalized gifts. Members also enjoy weekly cashback and access to special tournaments. Registration is automatic after creating an account. This is a great opportunity for players to boost their winnings and receive extra rewards for their activity.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on Fambet\n\n<\/li>\n            <li>\u2022 \nComplete identity verification (KYC)\n\n<\/li>\n            <li>\u2022 \nStart placing real-money bets\n\n\n<\/li>\n   \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\"> Program Levels and How to Reach Them\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nBronze \u2014 entry-level, available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver \u2014 earned by accumulating points through betting\n\n<\/li>\n       <li>\u2022 \nGold \u2014 for active players with high deposit turnover\n\n<\/li>\n            <li>\u2022 \nVIP \u2014 invitation-only for the most loyal customers\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Benefits\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nWelcome free spins and deposit bonuses\n\n<\/li>\n            <li>\u2022 \nWeekly cashback up to 15%\n\n<\/li>\n       <li>\u2022 \nPersonalized gifts and exclusive promotions\n\n<\/li>\n            <li>\u2022 \nIncreased withdrawal limits\n\n<\/li>\n              <li>\u2022 \nExchange points for free spins and real money\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFambet Bonuses and Special Offers: Maximum Gaming Fun\n\n<\/h3>\n\n<p>\nFambet provides players with a wide range of bonuses and special offers that make gaming more exciting and rewarding. Beyond the standard loyalty program, the platform regularly hosts promotions, tournaments, and seasonal events. New users receive welcome bonuses, while regular players enjoy weekly deals and exclusive gifts. The casino organizes themed events tied to holidays and major sports championships, offering massive prizes. Slot tournaments are a highlight, giving players the chance to win extra cash and free spins. There are also reload bonuses and special offers for live casino enthusiasts. Fambet aims to create a festive atmosphere, offering not only entertainment but real opportunities to boost winnings. All promotions come with transparent terms and generous prize pools. This makes the platform appealing to those who value variety and excitement.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main Bonuses and Offers\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus \u2014 up to 350% on first deposit + 250 free spins\n\n<\/li>\n            <li>\u2022 \nReload Bonus \u2014 up to 150% + 50 free spins\n\n<\/li>\n            <li>\u2022 \nWeekly Cashback \u2014 up to 15% of lost funds\n\n<\/li>\n            <li>\u2022 \nSlot Tournaments \u2014 prize pools up to \u20ac50,000\n\n<\/li>\n\t    <li>\u2022 \nLive Casino Bonuses \u2014 extra bets and free spins for dealer games\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Promotions \u2014 themed offers with prizes up to \u20ac100,000\n\n<\/li>\n\t    <li>\u2022 \nHoliday Events \u2014 exclusive bonuses for New Year, Halloween, and more\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Fambet: Top Entertainment for Players\n\n<\/h3>\n\n<p>\nFambet offers a vast selection of games to satisfy every player\u2019s taste. The core of its collection consists of video slots from leading providers, featuring stunning graphics and engaging themes. For fans of classic gaming, table games like roulette, blackjack, and poker are available. Special attention is given to live casino, where players can interact with real dealers in real time. The platform regularly adds new releases to keep the experience fresh and exciting. Among the popular titles are traditional slots as well as modern games with progressive jackpots. Fambet also features exclusive games available only on this platform. All games are optimized for mobile devices, allowing players to enjoy them anywhere. High RTP rates and fair mechanics ensure transparency and trust. It\u2019s the perfect destination for those who value variety and quality.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Fambet Games\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Dead \u2014 legendary slot with Egyptian theme and bonus rounds.\n\n<\/li>\n            <li>\u2022 \nStarburst \u2014 vibrant slot with simple rules and frequent wins.\n\n<\/li>\n            <li>\u2022 \nMega Moolah \u2014 progressive jackpot offering chances for millions.\n\n<\/li>\n            <li>\u2022 \nLightning Roulette \u2014 dynamic roulette with multipliers up to x500.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live \u2014 classic blackjack with real dealers.\n\n<\/li>\n\t    <li>\u2022 \nSweet Bonanza \u2014 colorful slot with cascading wins and multipliers.\n\n<\/li>\n\t    <li>\u2022 \nGonzo\u2019s Quest \u2014 adventure slot with unique Avalanche mechanics.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Fambet: Flexibility for Every Player\n\n<\/h3>\n\n<p> \nFambet offers flexible betting limits to ensure every player finds their comfort zone. The platform provides low minimum bets for beginners and high limits for those who enjoy big wins. This makes Fambet a perfect choice for both casual players and high rollers. Betting ranges vary depending on the game type: slots, table games, and live casino all have different limits. This allows users to choose the best strategy and manage their budget effectively.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#216CA4; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Table Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac200<\/td>\n                <\/tr>\n         \n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Fambet: A World of Fun and Excitement\n\n<\/h3>\n\n<p>\nFambet is not just an online casino but a full-fledged entertainment platform offering unique events and shows. Players can enjoy a variety of activities, from themed promotions to large-scale tournaments with impressive prize pools. The casino aims to create a festive atmosphere where excitement meets big winning opportunities.\n\n<\/p>\n<br>\n<p>\nSeasonal events are a major highlight, held during holidays and special occasions. For New Year, Halloween, Valentine\u2019s Day, and other celebrations, Fambet organizes exclusive promotions featuring bonuses, free spins, and prize giveaways. These events come with vibrant visuals and unique gaming offers, making participation truly enjoyable.\n\n<\/p>\n<br>\n<p>\nThe platform also hosts regular slot tournaments and table game competitions. Players compete for top positions on leaderboards and have the chance to win extra cash prizes, free spins, or VIP perks. Prize pools can reach tens of thousands of euros, attracting both beginners and experienced players.\n\n<\/p>\n<br>\n<p>\nFor live casino fans, Fambet offers special dealer shows. These are not just games but real performances, combining interactive communication with thrilling bets. Such events recreate the atmosphere of a real casino, accessible from the comfort of home.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">All Fambet Entertainment and Events\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nSlot Tournaments \u2014 competitions with prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nTable Game Tournaments \u2014 poker and blackjack with cash prizes.\n\n<\/li>\n            <li>\u2022 \nLive Dealer Shows \u2014 interactive games with show elements.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions \u2014 holiday-themed offers with bonuses up to \u20ac100,000.\n\n<\/li>\n\t    <li>\u2022 \nHoliday Giveaways \u2014 gifts and exclusive free spins for participants.\n\n<\/li>\n\t    <li>\u2022 \nSpecial Game Events \u2014 new slots with unique mechanics and bonuses.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Fambet\n\n<\/h3>\n\n<p>\nFambet offers convenient and secure withdrawal methods to ensure players receive their winnings quickly. The platform supports several popular options: bank cards, e-wallets, and cryptocurrencies. All transactions are processed through secure channels using SSL encryption, guaranteeing the safety of funds and personal data.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets provide the fastest transactions \u2014 usually within 24 hours. Withdrawals to bank cards take 1 to 5 business days, while bank transfers may require up to 7 days. Cryptocurrency transactions are almost instant, making them the perfect choice for those who value speed.\n\n<\/p>\n<br>\n<p>\nFambet sets transparent withdrawal limits. The minimum withdrawal amount is typically \u20ac20, while maximum limits depend on player status. Standard accounts may have a monthly limit of around \u20ac7,000, while VIP clients can withdraw up to \u20ac20,000. This ensures fair conditions and full control over the process.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Methods\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard) \u2014 processing time 1\u20135 days\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller) \u2014 within 24 hours\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (BTC, ETH, USDT) \u2014 almost instant\n\n<\/li>\n            <li>\u2022 \nBank Transfer \u2014 up to 7 business days\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Processing Times\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallet: within 24 hours\n\n<\/li>\n            <li>\u2022 \nCards: 1\u20135 days\n\n<\/li>\n            <li>\u2022 \nBank Transfer: up to 7 days\n\n\n<\/li>\n \n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Limits\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount: \u20ac20\n\n<\/li>\n            <li>\u2022 \nMonthly maximum: \u20ac7,000 (standard), \u20ac20,000 (VIP)\n<\/li>\n  \n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Are there country restrictions?",
+                    "answer": "Yes, access may be limited in certain jurisdictions. Check the rules on the website.\n\n\n"
+                },
+                {
+                    "title": "How is game fairness ensured?",
+                    "answer": "All games use certified Random Number Generators (RNG), guaranteeing fair results.\n\n\n"
+                },
+                {
+                    "title": "Can I set gaming limits?",
+                    "answer": "Yes, Fambet supports responsible gaming tools, including deposit and betting limits.\n\n\n"
+                },
+                {
+                    "title": "Is there an affiliate program?",
+                    "answer": "Yes, Fambet offers an affiliate program with attractive conditions for player referrals.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/765",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Fambet"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
